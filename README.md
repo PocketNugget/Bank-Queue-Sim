@@ -27,7 +27,7 @@ Run the main file
 
 ## Authors
 
-  - [Goben Diego C.A.](https://github.com/PocketNugget) - [Natalya Patricia M. de la V.](https://github.com/link-to-github) -
+  - [Goben Diego C.A.](https://github.com/PocketNugget) - [Natalya Patricia M. de la V.](https://github.com/NatalyaMorales) -
 
 
 ## License
